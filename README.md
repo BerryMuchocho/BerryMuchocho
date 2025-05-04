@@ -35,9 +35,10 @@ Frameworks: React (learning in progress), Bootstrap, Tailwind CSS
 Tools: Git & GitHub, VS Code, Chrome DevTools, Figma  
 Soft Skills: Communication, Team Collaboration, Problem Solving
 
-###
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=berrymuchocho&show_icons=true&theme=radical" alt="GitHub Stats" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=berrymuchocho&theme=radical" alt="GitHub Streak" /> </p>
----
-###🤝 Let’s Connect
-<p> <a href="https://www.linkedin.com/in/stellah-muchocho-254246132" target="_blank">LinkedIn</a> • <a href="mailto:muchocho13@gmail.com">Email</a> • <a href="https://twitter.com/BerryMuchocho" target="_blank">X</a> </p>
----
+### 🤝 Let’s Connect
+
+Email: muchocho13@gmail.com
+LinkedIn: www.linkedin.com/in/stellah-muchocho-254246132
+X: https://x.com/BerryMuchocho
+
+
