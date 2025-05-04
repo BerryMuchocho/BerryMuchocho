@@ -1,44 +1,73 @@
 <h1 align="center">Hi there 👋, I'm Stellah Muchocho</h1>
+<h3 align="center">🌱 Front-End Developer in Training | Lifelong Learner | Passionate About Creative Web Experiences</h3>
+
+---
+
+### 🚀 About Me
+
+I’m a front-end developer in training with the ALX program, passionate about creating responsive and accessible websites. I’m now focused on mastering HTML, CSS, and JavaScript. I'm building a strong foundation for a career in tech by learning, experimenting, and growing every day.
+
+🎯 **My goal:** To build beautiful and responsive websites, contribute to impactful projects, and grow my skills through hands-on learning and collaboration.
+
+🔧 I’m focused on strengthening my foundation in HTML, CSS, and JavaScript, while learning about responsive design, accessibility, and version control.
+
+---
+
+### 🧰 Tools & Technologies
+
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Version Control:** Git, GitHub
+- **Design Tools:** Figma, Canva
+- **Editor & Dev Tools:** VS Code, Chrome DevTools
+- **Deployment Platforms:** GitHub Pages, Netlify (learning phase)
+
+---
+
+### 📘 Learning in Progress
+
+- Building mini projects (landing pages, interactive forms, to-do lists)
+- Practicing responsive web design using Flexbox and CSS Grid
+- Enhancing accessibility and semantic HTML in my work
+- Exploring Git and GitHub workflows (commits, branches, pull requests)
+
+---
+
+### 🌍 Let’s Connect!
+
+📫 I'm open to learning, mentorship, and collaboration:  
+- 💼 [LinkedIn](https://linkedin.com/in/stellah-muchocho-254246132)  
+- 🐦 [X](https://x.com/BerryMuchocho)  
+- 🧑‍💻 [GitHub](https://github.com/BerryMuchocho)  
+- 📧 Email: muchocho13@gmail.com
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <em>A passionate Front-end Developer in training at <strong>ALX Software Engineering Program</strong> 🚀</em><br>
-  <em>On a mission to build accessible, performant, and beautiful web experiences.</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=BerryMuchocho&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BerryMuchocho&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🌟 About Me
+### 🛠️ What’s Next?
 
-💡 I started learning software engineering because I’m deeply inspired by the idea of using **technology to solve real-world problems**, make lives easier, and build tools that empower people.  
-
-✨ I'm passionate about **clean code, user-centered design, and responsive development**.  
-
-🔥 I’m especially drawn to projects that involve:
-- Web accessibility 🌍
-- Interactive user interfaces 🎨
-- Performance optimization ⚡
-- Real-world problem solving with code 💻
+Right now, I’m:
+- Completing ALX front-end learning milestones  
+- Planning my first full personal portfolio  
+- Preparing to contribute to beginner-friendly open-source projects  
+- Exploring how to turn ideas into real web apps  
 
 ---
 
-### 🎯 My Vision
+### 🌟 My Vision
 
-My aim is to **become a skillful, creative, and impact-driven Front-end Developer** who creates meaningful digital experiences. I want to **work on open-source projects, contribute to web communities**, and eventually mentor others breaking into tech.
+> "To use front-end development to build beautiful, accessible, and functional digital experiences that improve lives and solve real-world problems."
 
 ---
 
-### 🛠️ Technologies & Tools
-
-```html
-Languages: HTML, CSS, JavaScript  
-Frameworks: React (learning in progress), Bootstrap, Tailwind CSS  
-Tools: Git & GitHub, VS Code, Chrome DevTools, Figma  
-Soft Skills: Communication, Team Collaboration, Problem Solving
-
-### 🤝 Let’s Connect
-
-Email: muchocho13@gmail.com
-LinkedIn: www.linkedin.com/in/stellah-muchocho-254246132
-X: https://x.com/BerryMuchocho
-
-
+Thank you for stopping by! I'm excited about the journey ahead—let's connect and build the future, one line of code at a time 🚀
