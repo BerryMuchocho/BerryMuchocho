@@ -9,8 +9,6 @@
 
 ### 🌟 About Me
 
-I am a learner of the ALX Front-end program and I want to **revamp my GitHub Profile** to make it stand out during my job search.  
-
 💡 I started learning software engineering because I’m deeply inspired by the idea of using **technology to solve real-world problems**, make lives easier, and build tools that empower people.  
 
 ✨ I'm passionate about **clean code, user-centered design, and responsive development**.  
